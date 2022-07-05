@@ -1,0 +1,14 @@
+*
+
+!build.bat
+!clearbuild.bat
+!run.bat
+!README.md
+!.gitignore
+!code/
+!code/main.cpp
+!code/CMakeLists.txt
+!build/
+!build/Debug/
+!build/Debug/Kaleidoscope.exe
+
